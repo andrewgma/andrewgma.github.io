@@ -14,8 +14,8 @@ a {
 }
 
 #header {
-	font-size: 40px;
-	padding-bottom: 16px;
+	font-size: 60px;
+	margin-bottom: 12px;
 }
 
 #wrap {
@@ -26,14 +26,18 @@ a {
 }
 
 .proj {
-	padding-bottom: 12px;
+	margin-bottom: 18px;
 }
 
 .proj-name {
-	font-size: 28px;
-
+	font-size: 32px;
+	padding-bottom: 4px;
 }
 
 .proj-desc {
 	font-size: 18px;
+}
+
+.info {
+	margin-bottom: 18px;
 }
